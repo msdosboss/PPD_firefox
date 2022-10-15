@@ -66,6 +66,6 @@
     "icon/logo128.png",
     "style/showLargerThumbnails.css"
   ],
-  "incognito": "split",
+  "incognito": "spanning",
   "homepage_url": "https://github.com/xuejianxianzun/PixivBatchDownloader"
 }
