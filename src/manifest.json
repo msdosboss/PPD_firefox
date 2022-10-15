@@ -49,7 +49,6 @@
   },
   "permissions": [
     "downloads",
-    "downloads.shelf",
     "storage",
     "*://www.pixiv.net/*",
     "*://www.pixivision.net/*",
